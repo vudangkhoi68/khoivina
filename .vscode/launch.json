@@ -1,0 +1,33 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      
+        //    {
+        //     "name": "Sandbox_171125",
+        //     "request": "launch",
+        //     "type": "al",
+        //     "environmentType": "Sandbox",
+        //     "environmentName": "Sandbox_171125",
+        //     "startupObjectId": 22,
+        //     "startupObjectType": "Page",
+        //     "breakOnError": "All",
+        //     "launchBrowser": true,
+        //     "enableLongRunningSqlStatements": true,
+        //     "enableSqlInformationDebugger": true
+        // },
+        {
+            "name": "BSR_Sandbox14Oct",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "Sandbox",
+            "environmentName": "BSR_Sandbox14Oct",
+            "startupObjectId": 50100,
+            "startupObjectType": "Page",
+            "breakOnError": "All",
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "schemaUpdateMode": "ForceSync"
+        }
+    ]
+}
